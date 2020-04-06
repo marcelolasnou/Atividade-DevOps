@@ -12,4 +12,5 @@ elif tipo=="g":
      print ("Total de Gasolina", total)
 else:
      print ("Combustivel Invalido")
+     
 
